@@ -1,0 +1,17 @@
+.progress {
+  height: 25px;
+  margin-bottom: 20px;
+  background-color: #d71717;
+  border: 1px solid #863959;
+}
+
+#qTitle {
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+#finishGame {
+  font-size: 3.5rem;
+  color: rgb(225, 202, 69);
+  display: none;
+}
